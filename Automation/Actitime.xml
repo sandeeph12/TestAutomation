@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testng Tests">
+  <test name="TestNG Scenarios">
+  	<classes>
+  		<class name="com.sgtesting.Testng.scenarios.Assign6"></class>
+  	
+  	</classes>
+  </test>
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testng Tests">
+	<test name="Test Scenarios">
+		<classes>
+			<class name="com.sgtesting.ActiTime.scenarios.Demo1" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo2" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo3" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo4" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo5" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo6" />
+			<class name="com.sgtesting.ActiTime.scenarios.Demo7" />			
+		</classes>
+	</test>
+</suite>
